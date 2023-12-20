@@ -18,6 +18,8 @@ git clone https://github.com/devpedroso/Portifolio.git
 
 # entrar na pasta do projeto front end
 cd site-cursos
+
+# executar
+Abra o arquivo index.html em seu navegador.
 ```
 
-### -> Abra o arquivo ***index.html*** em seu navegador.
