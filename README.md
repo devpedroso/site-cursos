@@ -14,7 +14,7 @@ Inspirado em plataformas como Udemy, Alura, Rocketseat, entre outras. Onde temos
 ## 🚀 Como executar o projeto
 ```bash
 # clonar repositório
-git clone https://github.com/devpedroso/Portifolio.git
+git clone https://github.com/devpedroso/site-cursos.git
 
 # entrar na pasta do projeto front end
 cd site-cursos
